@@ -11,7 +11,7 @@
   "dependencies": {
     "buffer-from": "^1.1.2",
     "methods": "^1.1.2",
-    "next": "^14.2.1",
+    "next": "^14.2.10",
     "react-dom": "^18.2.0",
     "reflect-metadata": "^0.2.2",
     "tslib": "^2.6.2"
